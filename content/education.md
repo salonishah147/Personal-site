@@ -4,7 +4,7 @@
 
 Location: London, UK
 
-Degree: **MSc - Stratergic Marketing**
+Degree: **MSc - Strategic Marketing**
 
 Core Modules: Brand Strategy, Consumer Behaviour, Digital Marketing, Finance and Pricing Strategy, Marketing Analytics, Relationship Marketing
 
