@@ -52,7 +52,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     since = 2020
     author = "Saloni Shah"               # Author's name
-    subtitle = "Stratergic Thinker"       # Subtitle
+    subtitle = "Strategic Thinker"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
