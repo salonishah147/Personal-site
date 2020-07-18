@@ -6,7 +6,7 @@ Location: Mumbai, India
 
 Degree: **Bachelors in Mass Media**
 
-Final CGPA: **8.78/10**
+Final CGPA: **8.78 / 10**
 
 
 
