@@ -1,15 +1,5 @@
 # Education
 
-### **Imperial College Business School** (2020-2021)
-
-Location: London, UK
-
-Degree: **MSc - Strategic Marketing**
-
-Core Modules: Brand Strategy, Consumer Behaviour, Digital Marketing, Finance and Pricing Strategy, Marketing Analytics, Relationship Marketing
-
-
-
 ### **Mithibai College** (2016-2019)
 
 Location: Mumbai, India
