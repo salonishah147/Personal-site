@@ -77,10 +77,10 @@ disqusShortname = "yourdiscussshortname"
 [params.social]
     #GitHub = "xxxx"
     Linkedin = "saloni-shah-"
-    Twitter = "notsalonely"
-    Instagram = "notsalonely"
+    #Twitter = "xxxx"
+    #Instagram = "xxxx"
     #Email   = "xxxx"
-    Facebook = "saloni.shah.18"
+    #Facebook = "xxxx"
     #Telegram = "xxxx"
     #Medium = "xxxx"
     #Gitlab = "xxxx"
@@ -134,8 +134,8 @@ disqusShortname = "yourdiscussshortname"
     #Thingiverse = "xxxx"
 
 [params.share]
-Twitter = true
-Facebook = true
+#Twitter = true
+#Facebook = true
 #Reddit = true
 Linkedin = true
 #Pinterest = true
