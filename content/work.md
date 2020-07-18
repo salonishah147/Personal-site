@@ -76,9 +76,7 @@ About the Company: Paparazzi is an annual media festival organized by the BMM de
 
 - Planned & executed a CSR campaign, #ThePink Whale Challenge, to raise awareness about mental health
 
-- Designed a schedule for Paparazzi's social media handles:
-
-Facebook, Instagram, YouTube and Twitter.
+- Designed a schedule for Paparazzi's social media handles: Facebook, Instagram, YouTube and Twitter.
 
 
 ### **Product Marketing Intern** (Apr 2017 - Jun 2017)
