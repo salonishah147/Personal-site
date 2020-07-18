@@ -17,7 +17,7 @@ Location: Mumbai, India
 
 Degree: **Secondary Education**
 
-Final Grade: **87%**
+Final Grade: **88%**
 
 
 
