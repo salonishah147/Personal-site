@@ -70,7 +70,7 @@ disqusShortname = "yourdiscussshortname"
 
 
 [params.social]
-    GitHub = "salonishah147"
+    #GitHub = "salonishah147"
     Linkedin = "saloni-shah-"
     #Twitter = "xxxx"
     #Instagram = "xxxx"
