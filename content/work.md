@@ -66,7 +66,7 @@ About the Company: RoundGlass Obino is a Health and Fitness Coaching App.
 
 ### **Head of Media Relations** (Jul 2017 - Nov 2017)
 
-Company: [**Paparazzi**](https://www.facebook.com/MithibaiPaparazzi/)
+Company: [**Paparazzi**](https://m.facebook.com/profile.php?id=612614132192392&ref=content_filter)
 
 About the Company: Paparazzi is an annual media festival organized by the BMM department of Mithibai College.
 
