@@ -1,5 +1,11 @@
 # Education
 
+### **Imperial College London** (2020-present)
+
+Location: London, UK
+
+Degree: **Mass Media**
+
 ### **Mithibai College** (2016-2019)
 
 Location: Mumbai, India
