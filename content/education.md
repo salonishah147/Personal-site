@@ -1,10 +1,10 @@
 # Education
 
-### **Imperial College London** (2020-present)
+### **Imperial College Business School** (2020-present)
 
 Location: London, UK
 
-Degree: **Mass Media**
+Degree: **MSc Strategic Marketing**
 
 ### **Mithibai College** (2016-2019)
 
@@ -40,7 +40,6 @@ Final Grade: **91%**
 
 
 # Certifications
-
 
 
 - Business, Operations & Marketing Experience by Bright Network
