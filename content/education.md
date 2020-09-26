@@ -1,6 +1,6 @@
 # Education
 
-### **Imperial College Business School** (2020-present)
+### **Imperial College Business School** (2020-2021)
 
 Location: London, UK
 
