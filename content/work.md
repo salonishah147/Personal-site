@@ -10,13 +10,12 @@ About the Company: MullenLowe Lintas Group, formerly Lintas, is an Indian advert
 
 - Worked with brands like Knorr, Kissan, ICICI Prudential, Axis Bank, and Annapurna
 
-- Conducted consumer research in different parts of the country to gain key insights in order to develop advertising concepts
+- Analysed communication strategies of client’s competitor brands and identified lack of digital presence as area of improvement; implementation of a digital campaign led to the brand gaining 3X more value share 
 
-- Developed propositions from insights gained during the research
+- Conducted consumer research for 4 brands and produced detailed insight reports which were presented to the clients
 
-- Analysed communication strategies of competitor brands
+- Drafted a clearly defined brief for the creative team outlining the advertising plan
 
-- Assisted in writing a case study for Knorr India's Campaign (submitted for Golden Glove Awards)
 
 
 ### **Community Development Intern** (May 2019 - Jun 2019)
@@ -27,9 +26,9 @@ About the Company: BabyChakra is an online platform that connects parents to ser
 
 **Roles & Responsibilities**
 
-- Researched and recommended user retention and engagement strategies leading to an increase in engagement by 50% on the app
+- Recommended new user engagement and retention strategies to senior management resulting in an increase in in-app engagement by 80% 
 
-- Interviewed a top Cardiac Physiologist for a Father's Day Campaign
+- Implemented a new customer feedback system increasing response rate by 75%
 
 - Onboarded 100 creators for an online content creation and writing community
 
@@ -46,7 +45,7 @@ About the Company: Muskurahat Foundation is a non-profit organization working to
 
 - Pitched an entrepreneurship competition- India's Future Tycoons, in collaboration with ENpower, to schools across the city. Successfully enrolled 50 schools for the competition.
 
-- Worked in a cross-functional team across graphic designers, content writers and bloggers for efficient running of Muskurahat social media pages
+- Led a team of 5 graphic designers, content writers and bloggers for efficient running of the NGO’s social media pages (Instagram and Facebook)
 
 
 ### **Content Marketing Intern** (May 2018 - Jun 2018)
@@ -72,11 +71,11 @@ About the Company: Paparazzi is an annual media festival organized by the BMM de
 
 **Roles & Responsibilities**
 
-- Partnered with 12 leading media organizations like: Times Now, Red FM, 9XM, Simca Outdoor, and others
+- Partnered with 12 leading media organizations including Times Now, Red FM, 9XM, Simca Outdoor
 
-- Planned & executed a CSR campaign, #ThePink Whale Challenge, to raise awareness about mental health
+- Planned and executed a CSR campaign, #PinkWhaleChallenge, to raise awareness about mental health. The campaign garnered media coverage: A radio interview and 2 press articles 
 
-- Designed a schedule for Paparazzi's social media handles: Facebook, Instagram, YouTube and Twitter.
+- Ran a Facebook campaign leading to an organic increase in page likes from 1300 to 3000+ 
 
 
 ### **Product Marketing Intern** (Apr 2017 - Jun 2017)
@@ -91,6 +90,6 @@ About the Company: LaughGuru is an online learning app for middle school student
 
 - Scaled citywide database from 50 to 300+ school students
 
-- Designed creatives for social media posts
+- Crafted email marketing messages to maintain customer relationships generating an open-rate of 16% compared to the previous rate of 8% 
 
 
